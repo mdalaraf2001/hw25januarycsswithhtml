@@ -1,0 +1,13 @@
+td{
+    background-color: rgb(110, 107, 255); 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font: bold;
+}
+form{
+    text-align: center;
+}
